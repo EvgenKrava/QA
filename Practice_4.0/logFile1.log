@@ -1,0 +1,5 @@
+2019-03-02 10:50:30 [DEBUG] Logging:6 - this is debug message
+2019-03-02 10:50:30 [INFO ] Logging:7 - this is info message
+2019-03-02 10:50:30 [WARN ] Logging:8 - this is warn message
+2019-03-02 10:50:30 [ERROR] Logging:9 - this is error message
+2019-03-02 10:50:30 [FATAL] Logging:10 - this is fatal message
