@@ -18,7 +18,7 @@ public class SeleniumGrid {
         capabilities = DesiredCapabilities.chrome();
         capabilities.setBrowserName("chrome");
         capabilities.setPlatform(Platform.LINUX);
-        driver = new RemoteWebDriver(new URL("http://192.168.0.111:6666/wd/hub/"), capabilities);
+        driver = new RemoteWebDriver(new URL("http://127.0.1.1:6666/wd/hub/"), capabilities);
         driver.get("https://pn.com.ua/");
     }
 

@@ -1,13 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdc645d0-931a-402d-be5e-9c459062b4a8" name="Default Changelist" comment="" />
+    <list default="true" id="cdc645d0-931a-402d-be5e-9c459062b4a8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestSelenium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestSelenium.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/Practice_6.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestSelenium.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestSelenium.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_9/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_9/src/test/java/SeleniumGrid.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_9/src/test/java/SeleniumGrid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_9/target/test-classes/SeleniumGrid.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_9/target/test-classes/SeleniumGrid.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -32,8 +45,15 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestSelenium.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="71" column="46" selection-start-line="71" selection-start-column="46" selection-end-line="71" selection-end-column="46" />
+            <state relative-caret-position="285">
+              <caret line="48" column="24" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
+              <folding>
+                <element signature="method#Test1#0;class#TestSelenium#0" />
+                <element signature="method#Test2#0;class#TestSelenium#0" />
+                <element signature="method#Test3#0;class#TestSelenium#0" />
+                <element signature="n#!!block;n#closeWebDriver#0;n#TestSelenium#0" />
+                <element signature="e#4744#4745#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -48,7 +68,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -81,10 +101,11 @@
     <panes />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553639362053" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Practice_7" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -175,13 +196,11 @@
       <workItem from="1553458479536" duration="21617000" />
       <workItem from="1553638425853" duration="201000" />
       <workItem from="1553638962322" duration="531000" />
+      <workItem from="1555334756006" duration="1672000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestSelenium_Test6 - 2019.03.25 at 22h 20m 53s.xml">
-      <configuration name="TestSelenium.Test6" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestSelenium_Test6 - 2019.03.25 at 22h 24m 09s.xml">
       <configuration name="TestSelenium.Test6" configurationId="JUnit" />
     </history-entry>
@@ -209,9 +228,12 @@
     <history-entry file="TestSelenium - 2019.03.27 at 00h 30m 14s.xml">
       <configuration name="TestSelenium" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TestSelenium - 2019.04.15 at 16h 30m 00s.xml">
+      <configuration name="TestSelenium" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30290000" />
+    <option name="totallyTimeSpent" value="31962000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="743" extended-state="6" />
@@ -226,7 +248,7 @@
       <window_info id="Learn" order="7" weight="0.32954547" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.42207792" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4218241" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -234,7 +256,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32954547" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32899022" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -274,8 +296,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestSelenium.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="71" column="46" selection-start-line="71" selection-start-column="46" selection-end-line="71" selection-end-column="46" />
+        <state relative-caret-position="285">
+          <caret line="48" column="24" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
+          <folding>
+            <element signature="method#Test1#0;class#TestSelenium#0" />
+            <element signature="method#Test2#0;class#TestSelenium#0" />
+            <element signature="method#Test3#0;class#TestSelenium#0" />
+            <element signature="n#!!block;n#closeWebDriver#0;n#TestSelenium#0" />
+            <element signature="e#4744#4745#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
