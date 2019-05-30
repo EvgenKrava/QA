@@ -11,6 +11,7 @@ import java.util.List;
 import java.util.concurrent.TimeUnit;
 
 public class TestSelenium {
+
     static WebDriver WEBDRIVER;
 
     @BeforeClass

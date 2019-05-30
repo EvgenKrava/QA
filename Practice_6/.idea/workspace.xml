@@ -2,14 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdc645d0-931a-402d-be5e-9c459062b4a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_11/src/main/webapp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_11/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_11/src/main/java/ServletClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_11/src/main/java/ServletClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_11/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_11/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_11/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_11/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_11/target/Practice_11-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_11/target/Practice_11-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_11/target/Practice_11-1.0-SNAPSHOT/WEB-INF/classes/ServletClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_11/target/Practice_11-1.0-SNAPSHOT/WEB-INF/classes/ServletClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_11/target/Practice_11-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_11/target/Practice_11-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_11/target/Practice_11-1.0-SNAPSHOT/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_11/target/Practice_11-1.0-SNAPSHOT/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_11/target/classes/ServletClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_11/target/classes/ServletClass.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/TestSelenium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestSelenium.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/Practice_6.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/TestSelenium.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestSelenium.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice_9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_9/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice_9/src/test/java/SeleniumGrid.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_9/src/test/java/SeleniumGrid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice_9/target/test-classes/SeleniumGrid.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_9/target/test-classes/SeleniumGrid.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,8 +22,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -45,14 +47,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestSelenium.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="48" column="24" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
+            <state relative-caret-position="915">
+              <caret line="94" column="65" selection-start-line="94" selection-start-column="65" selection-end-line="94" selection-end-column="65" />
               <folding>
+                <element signature="method#setWebDriver#0;class#TestSelenium#0" />
                 <element signature="method#Test1#0;class#TestSelenium#0" />
                 <element signature="method#Test2#0;class#TestSelenium#0" />
-                <element signature="method#Test3#0;class#TestSelenium#0" />
-                <element signature="n#!!block;n#closeWebDriver#0;n#TestSelenium#0" />
-                <element signature="e#4744#4745#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -98,7 +98,46 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Practice_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practice_6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practice_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practice_6" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practice_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practice_6" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practice_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practice_6" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practice_6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practice_6" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -197,6 +236,7 @@
       <workItem from="1553638425853" duration="201000" />
       <workItem from="1553638962322" duration="531000" />
       <workItem from="1555334756006" duration="1672000" />
+      <workItem from="1555966321325" duration="848000" />
     </task>
     <servers />
   </component>
@@ -233,12 +273,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31962000" />
+    <option name="totallyTimeSpent" value="32810000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="743" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.19621213" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19621213" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -296,14 +336,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestSelenium.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="48" column="24" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
+        <state relative-caret-position="915">
+          <caret line="94" column="65" selection-start-line="94" selection-start-column="65" selection-end-line="94" selection-end-column="65" />
           <folding>
+            <element signature="method#setWebDriver#0;class#TestSelenium#0" />
             <element signature="method#Test1#0;class#TestSelenium#0" />
             <element signature="method#Test2#0;class#TestSelenium#0" />
-            <element signature="method#Test3#0;class#TestSelenium#0" />
-            <element signature="n#!!block;n#closeWebDriver#0;n#TestSelenium#0" />
-            <element signature="e#4744#4745#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -2,26 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7cb6e953-cb79-43fc-8d1f-9a3f3f8111b4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StepsForSerenity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/ComputerPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/SofaPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestSerenity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_9/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_9/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_9/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_9/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_9/Practice_9.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_9/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_9/src/test/java/SeleniumGrid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebProject/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebProject/web/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_12/src/test/java/HttpTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_11/.idea/artifacts/servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_11/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_11/.idea/libraries/Java_EE_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_11/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_11/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_11/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_11/Practice_11.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_11/Practice_11.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_11/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_11/src/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_11/src/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_11/src/Servlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_11/src/main/java/ServletClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_11/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_11/src/main/webapp/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_11/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_11/src/main/webapp/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_11/src/web/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_11/target/Practice_11-1.0-SNAPSHOT.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_11/target/Practice_11-1.0-SNAPSHOT/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_11/target/Practice_11-1.0-SNAPSHOT/WEB-INF/classes/ServletClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_11/target/Practice_11-1.0-SNAPSHOT/WEB-INF/lib/jsp-api-2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_11/target/Practice_11-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_11/target/Practice_11-1.0-SNAPSHOT/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_11/target/Practice_11-1.0-SNAPSHOT/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_11/target/classes/ServletClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_12/src/main/java/HttpRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_12/src/main/java/HttpRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_6/src/test/java/TestSelenium.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_6/src/test/java/TestSelenium.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_7/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StepsForSerenity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StepsForSerenity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/chromedriver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/chromedriver_linux64.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/Practice_8.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/StepsForSerenity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StepsForSerenity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chromedriver" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chromedriver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chromedriver_linux64.zip" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chromedriver_linux64.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/3c9b9d82a27ebe8dfd7b4d0ab1b41ef890a2b823bd0a60038c33846ea5b72ee7.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/3c9b9d82a27ebe8dfd7b4d0ab1b41ef890a2b823bd0a60038c33846ea5b72ee7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/3c9b9d82a27ebe8dfd7b4d0ab1b41ef890a2b823bd0a60038c33846ea5b72ee7.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/3c9b9d82a27ebe8dfd7b4d0ab1b41ef890a2b823bd0a60038c33846ea5b72ee7.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/3c9b9d82a27ebe8dfd7b4d0ab1b41ef890a2b823bd0a60038c33846ea5b72ee7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/3c9b9d82a27ebe8dfd7b4d0ab1b41ef890a2b823bd0a60038c33846ea5b72ee7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-3c9b9d82a27ebe8dfd7b4d0ab1b41ef890a2b823bd0a60038c33846ea5b72ee7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-3c9b9d82a27ebe8dfd7b4d0ab1b41ef890a2b823bd0a60038c33846ea5b72ee7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/eb4bddbef02639e7755944039b5b107fd5df256ad5f0b386a2df56c2d036282c.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/eb4bddbef02639e7755944039b5b107fd5df256ad5f0b386a2df56c2d036282c.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/eb4bddbef02639e7755944039b5b107fd5df256ad5f0b386a2df56c2d036282c.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/eb4bddbef02639e7755944039b5b107fd5df256ad5f0b386a2df56c2d036282c.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/eb4bddbef02639e7755944039b5b107fd5df256ad5f0b386a2df56c2d036282c.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/eb4bddbef02639e7755944039b5b107fd5df256ad5f0b386a2df56c2d036282c.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_9/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_9/chromedriver" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -39,7 +64,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
+            <state relative-caret-position="180">
               <caret line="12" column="74" selection-start-line="12" selection-start-column="74" selection-end-line="12" selection-end-column="74" />
             </state>
           </provider>
@@ -48,17 +73,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pages/ComputerPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+            <state relative-caret-position="60">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/StepsForSerenity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-end-line="28" selection-end-column="127" />
+            <state relative-caret-position="-49">
+              <caret line="36" column="50" selection-start-line="36" selection-start-column="50" selection-end-line="36" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -90,7 +118,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestSerenity.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
@@ -161,6 +189,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -198,13 +227,6 @@
               <item name="Practice_8" type="b2602c69:ProjectViewProjectNode" />
               <item name="Practice_8" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Practice_8" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Practice_8" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -218,7 +240,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -226,7 +247,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Practice_9" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -365,28 +386,13 @@
       <workItem from="1554471772869" duration="4948000" />
       <workItem from="1554632055881" duration="10078000" />
       <workItem from="1554650400865" duration="1303000" />
+      <workItem from="1558382473118" duration="1612000" />
+      <workItem from="1558386941029" duration="1207000" />
+      <workItem from="1558420549330" duration="2126000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestSerenity - 2019.04.07 at 14h 35m 26s.xml">
-      <configuration name="TestSerenity" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestSerenity - 2019.04.07 at 14h 38m 59s.xml">
-      <configuration name="TestSerenity" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestSerenity - 2019.04.07 at 14h 41m 03s.xml">
-      <configuration name="TestSerenity" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestSerenity - 2019.04.07 at 14h 43m 57s.xml">
-      <configuration name="TestSerenity" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestSerenity - 2019.04.07 at 14h 47m 34s.xml">
-      <configuration name="TestSerenity" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestSerenity - 2019.04.07 at 15h 11m 53s.xml">
-      <configuration name="TestSerenity" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestSerenity - 2019.04.07 at 15h 21m 15s.xml">
       <configuration name="TestSerenity" configurationId="JUnit" />
     </history-entry>
@@ -399,15 +405,33 @@
     <history-entry file="TestSerenity - 2019.04.07 at 15h 30m 23s.xml">
       <configuration name="TestSerenity" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TestSerenity - 2019.05.20 at 23h 05m 35s.xml">
+      <configuration name="TestSerenity" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSerenity - 2019.05.20 at 23h 13m 09s.xml">
+      <configuration name="TestSerenity" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSerenity - 2019.05.21 at 08h 54m 29s.xml">
+      <configuration name="TestSerenity" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSerenity - 2019.05.21 at 09h 40m 07s.xml">
+      <configuration name="TestSerenity" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSerenity - 2019.05.21 at 09h 42m 47s.xml">
+      <configuration name="TestSerenity" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSerenity - 2019.05.21 at 09h 45m 10s.xml">
+      <configuration name="TestSerenity" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26734000" />
+    <option name="totallyTimeSpent" value="31679000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21439394" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21439394" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -417,7 +441,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4495114" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -439,6 +463,7 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" />
       <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="right" id="Jenkins" order="10" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -451,17 +476,23 @@
     <entry file="file://$PROJECT_DIR$/target/site/serenity/favicon.ico">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/target/site/serenity/3c9b9d82a27ebe8dfd7b4d0ab1b41ef890a2b823bd0a60038c33846ea5b72ee7.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
+        <state relative-caret-position="180">
           <caret line="12" column="74" selection-start-line="12" selection-start-column="74" selection-end-line="12" selection-end-column="74" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pages/ComputerPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        <state relative-caret-position="60">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -485,20 +516,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestSerenity.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/StepsForSerenity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="-49">
+          <caret line="36" column="50" selection-start-line="36" selection-start-column="50" selection-end-line="36" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/StepsForSerenity.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestSerenity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-end-line="28" selection-end-column="127" />
+        <state relative-caret-position="45">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

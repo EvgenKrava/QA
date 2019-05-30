@@ -19,12 +19,12 @@ class StepsForSerenity {
 
     private String siteHomePage = "https://pn.com.ua/";
 
-    @Step("Given the user visit a page (0)")
+    @Step("Given the user visit a page https://pn.com.ua/")
     public void a_user_visits_a_page(String homePage){
         this.siteHomePage = homePage;
     }
 
-    @Step("When the user chooses category Computer (0)")
+    @Step("When the user chooses category Computer")
     public void the_user_chooses_category_Computer(){
         System.setProperty("webdriver.chrome.driver","/home/evgen/IdeaProjects/QA/Practice_8/src/main/resources/chromedriver");
         driver = new ChromeDriver();
@@ -33,13 +33,13 @@ class StepsForSerenity {
         computerPage = homePage.choiceComputerCategory();
     }
 
-    @Step("Then the user sees (0) subcategory")
+    @Step("Then the user sees IT Service subcategory")
     public void the_user_can_see_subcategory_ITSesvice(String subCategory){
         assert(computerPage.getTextITService().contains(subCategory));
         driver.close();
     }
 
-    @Step("When the user chooses category Sofa (0)")
+    @Step("When the user chooses category Sofa")
     public void the_user_chooses_category_Sofa() {
         System.setProperty("webdriver.chrome.driver","/home/evgen/IdeaProjects/QA/Practice_8/src/main/resources/chromedriver");
         driver = new ChromeDriver();
@@ -48,7 +48,7 @@ class StepsForSerenity {
         sofaPage = homePage.choiceSofaCategory();
     }
 
-    @Step("Then the user sees (0) subcategory")
+    @Step("Then the user sees Top popular subcategory")
     public void the_user_can_see_sofas(){
         List<String> s = sofaPage.getTopPopularNames();
         System.out.println(s);

@@ -2,9 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe8627aa-a809-4877-855d-d4c33d627a83" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Practice_12/src/test/java/HttpTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_11/.idea/artifacts/servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_11/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_11/.idea/libraries/Java_EE_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_11/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_11/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_11/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_11/Practice_11.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_11/Practice_11.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_11/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_11/src/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_11/src/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_11/src/Servlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_11/src/main/java/ServletClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_11/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_11/src/main/webapp/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_11/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_11/src/main/webapp/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_11/src/web/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_11/target/Practice_11-1.0-SNAPSHOT.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_11/target/Practice_11-1.0-SNAPSHOT/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_11/target/Practice_11-1.0-SNAPSHOT/WEB-INF/classes/ServletClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_11/target/Practice_11-1.0-SNAPSHOT/WEB-INF/lib/jsp-api-2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_11/target/Practice_11-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_11/target/Practice_11-1.0-SNAPSHOT/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_11/target/Practice_11-1.0-SNAPSHOT/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_11/target/classes/ServletClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_12/src/main/java/HttpRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_12/src/main/java/HttpRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_6/src/test/java/TestSelenium.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_6/src/test/java/TestSelenium.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_8/src/main/java/StepsForSerenity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_8/src/main/java/StepsForSerenity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_8/src/main/resources/chromedriver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_8/src/main/resources/chromedriver_linux64.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_8/target/classes/META-INF/Practice_8.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_8/target/classes/StepsForSerenity.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_8/target/classes/StepsForSerenity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_8/target/classes/chromedriver" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_8/target/classes/chromedriver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_8/target/classes/chromedriver_linux64.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_8/target/classes/chromedriver_linux64.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_8/target/site/serenity/3c9b9d82a27ebe8dfd7b4d0ab1b41ef890a2b823bd0a60038c33846ea5b72ee7.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_8/target/site/serenity/3c9b9d82a27ebe8dfd7b4d0ab1b41ef890a2b823bd0a60038c33846ea5b72ee7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_8/target/site/serenity/3c9b9d82a27ebe8dfd7b4d0ab1b41ef890a2b823bd0a60038c33846ea5b72ee7.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_8/target/site/serenity/3c9b9d82a27ebe8dfd7b4d0ab1b41ef890a2b823bd0a60038c33846ea5b72ee7.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_8/target/site/serenity/3c9b9d82a27ebe8dfd7b4d0ab1b41ef890a2b823bd0a60038c33846ea5b72ee7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_8/target/site/serenity/3c9b9d82a27ebe8dfd7b4d0ab1b41ef890a2b823bd0a60038c33846ea5b72ee7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_8/target/site/serenity/SERENITY-JUNIT-3c9b9d82a27ebe8dfd7b4d0ab1b41ef890a2b823bd0a60038c33846ea5b72ee7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_8/target/site/serenity/SERENITY-JUNIT-3c9b9d82a27ebe8dfd7b4d0ab1b41ef890a2b823bd0a60038c33846ea5b72ee7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_8/target/site/serenity/eb4bddbef02639e7755944039b5b107fd5df256ad5f0b386a2df56c2d036282c.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_8/target/site/serenity/eb4bddbef02639e7755944039b5b107fd5df256ad5f0b386a2df56c2d036282c.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_8/target/site/serenity/eb4bddbef02639e7755944039b5b107fd5df256ad5f0b386a2df56c2d036282c.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_8/target/site/serenity/eb4bddbef02639e7755944039b5b107fd5df256ad5f0b386a2df56c2d036282c.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_8/target/site/serenity/eb4bddbef02639e7755944039b5b107fd5df256ad5f0b386a2df56c2d036282c.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_8/target/site/serenity/eb4bddbef02639e7755944039b5b107fd5df256ad5f0b386a2df56c2d036282c.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SeleniumGrid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SeleniumGrid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SeleniumGrid.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SeleniumGrid.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chromedriver" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,14 +66,24 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/SeleniumGrid.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="20" column="56" selection-start-line="20" selection-start-column="56" selection-end-line="20" selection-end-column="56" />
+            <state relative-caret-position="427">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1035#1036#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/run2.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -45,10 +97,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/nodeConfiguration.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="534">
+            <state relative-caret-position="645">
               <caret line="43" column="3" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
             </state>
           </provider>
@@ -71,6 +123,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/test/java/SeleniumGrid.java" />
         <option value="$PROJECT_DIR$/nodeConfiguration.json" />
+        <option value="$PROJECT_DIR$/run2.sh" />
       </list>
     </option>
   </component>
@@ -164,7 +217,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SeleniumGrid.testTestFirst">
+  <component name="RunManager" selected="JUnit.SeleniumGrid">
     <configuration name="SeleniumGrid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Practice_9" />
       <option name="PACKAGE_NAME" value="" />
@@ -186,8 +239,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SeleniumGrid.testTestFirst" />
         <item itemvalue="JUnit.SeleniumGrid" />
+        <item itemvalue="JUnit.SeleniumGrid.testTestFirst" />
       </list>
     </recent_temporary>
   </component>
@@ -206,22 +259,11 @@
       <workItem from="1554909315409" duration="6015000" />
       <workItem from="1554979505878" duration="2007000" />
       <workItem from="1554998516645" duration="92000" />
+      <workItem from="1558422054549" duration="430000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SeleniumGrid_testTestFirst - 2019.04.11 at 14h 00m 07s.xml">
-      <configuration name="SeleniumGrid.testTestFirst" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SeleniumGrid_testTestFirst - 2019.04.11 at 14h 03m 02s.xml">
-      <configuration name="SeleniumGrid.testTestFirst" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SeleniumGrid_testTestFirst - 2019.04.11 at 14h 07m 03s.xml">
-      <configuration name="SeleniumGrid.testTestFirst" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SeleniumGrid_testTestFirst - 2019.04.11 at 14h 09m 32s.xml">
-      <configuration name="SeleniumGrid.testTestFirst" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="SeleniumGrid_testTestFirst - 2019.04.11 at 14h 11m 09s.xml">
       <configuration name="SeleniumGrid.testTestFirst" configurationId="JUnit" />
     </history-entry>
@@ -240,14 +282,26 @@
     <history-entry file="SeleniumGrid_testTestFirst - 2019.04.11 at 14h 17m 11s.xml">
       <configuration name="SeleniumGrid.testTestFirst" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="SeleniumGrid - 2019.05.21 at 10h 02m 39s.xml">
+      <configuration name="SeleniumGrid" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SeleniumGrid - 2019.05.21 at 10h 03m 02s.xml">
+      <configuration name="SeleniumGrid" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SeleniumGrid - 2019.05.21 at 10h 05m 32s.xml">
+      <configuration name="SeleniumGrid" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SeleniumGrid - 2019.05.21 at 10h 07m 47s.xml">
+      <configuration name="SeleniumGrid" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10421000" />
+    <option name="totallyTimeSpent" value="10851000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="743" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2659091" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2659091" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -268,6 +322,7 @@
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32899022" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="right" id="Jenkins" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -286,13 +341,10 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SeleniumGrid.java">
+    <entry file="file://$PROJECT_DIR$/nodeConfiguration.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="20" column="56" selection-start-line="20" selection-start-column="56" selection-end-line="20" selection-end-column="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="645">
+          <caret line="43" column="3" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -303,10 +355,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nodeConfiguration.json">
+    <entry file="file://$PROJECT_DIR$/run2.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="534">
-          <caret line="43" column="3" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SeleniumGrid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1035#1036#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
